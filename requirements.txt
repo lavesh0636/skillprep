@@ -2,7 +2,9 @@ streamlit
 plotly
 pandas
 python-dotenv
-groq
 numpy 
 tabulate
 matplotlib 
+phi
+phidata
+google-generativeai
